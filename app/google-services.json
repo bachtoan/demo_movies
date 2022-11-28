@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9904524969",
+    "project_id": "fir-movies-by-toan",
+    "storage_bucket": "fir-movies-by-toan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9904524969:android:ca1b727afa223a5b8a23b8",
+        "android_client_info": {
+          "package_name": "com.example.demo_movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9904524969-7svh7blrcacqchks64hne3bhl6srbtap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA69mdgaGWm8j_qSCk73iLyfkqJLfYGJhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9904524969-7svh7blrcacqchks64hne3bhl6srbtap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
